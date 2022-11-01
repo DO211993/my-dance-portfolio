@@ -1,3 +1,6 @@
-.sections_container{
+.container{
+  justify-content: center;
+  align-items: stretch;
+  display:flex;
   flex-direction:row;
 }
