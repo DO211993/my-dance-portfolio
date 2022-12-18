@@ -8,10 +8,6 @@ html{
   flex-direction:row;
   gap: 50px;
 }
-.img{
-  position: center; 
-
-}
 
 /********? NAV BUTTONS ********/
 nav > a {
